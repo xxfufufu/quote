@@ -1,0 +1,38 @@
+.card-author {
+    padding: 0 25px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    max-width: 640px;
+    width: 100%;
+    align-items: center;
+    background-color: #fff;
+    height: 70px;
+    margin: 0 auto 0 auto;
+}
+
+.card-author-name {
+    text-align: left;
+}
+
+.name {
+    color: #4f4f4f;
+}
+
+.job {
+    color: #828282;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.card-author:hover {
+    background-color: #333333;
+}
+
+.card-author:hover .name {
+    color: #f2f2f2;
+}
+
+.arrow-icon {
+    cursor: pointer;
+}

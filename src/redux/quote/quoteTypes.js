@@ -1,0 +1,6 @@
+export const GET_AUTHOR = "GET_RANDOM_AUTHOR";
+export const GET_GENRE = "GET_GENRE";
+export const GET_RANDOM_QUOTE = "GET_RANDOM_QUOTE";
+export const GET_ALL_QUOTES = "GET_ALL_QUOTES";
+export const VIEW_TO_QUOTE_BY_AUTHOR = "VIEW_TO_QUOTE_BY_AUTHOR";
+export const VIEW_TO_RANDOM = "VIEW_TO_RANDOM";

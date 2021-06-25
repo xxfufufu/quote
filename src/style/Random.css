@@ -1,0 +1,16 @@
+.random {
+    max-width: 600px;
+    width: 100%;   
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.random-content {
+    font-style: italic;
+}
