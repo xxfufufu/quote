@@ -1,6 +1,4 @@
-.random {
-    max-width: 600px;
-    width: 100%;   
+.random {   
     display: flex;
     justify-content: flex-end;
     align-items: center;
