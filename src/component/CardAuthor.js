@@ -1,8 +1,7 @@
-import React, { useEffect } from 'react'
 import ArrowRightAltIcon from '@material-ui/icons/ArrowRightAlt'
 import '../style/CardAuthor.css'
 import { useDispatch } from 'react-redux'
-import { fetchRandomQuote, fetchQuotes } from '../redux/quote/quoteAction'
+import { fetchQuotes } from '../redux/quote/quoteAction'
 
 
 function CardAuthor({name, genre}) {

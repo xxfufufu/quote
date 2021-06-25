@@ -1,6 +1,6 @@
 import { Autorenew } from "@material-ui/icons";
 import { useDispatch } from "react-redux";
-import { fetchRandomQuote, viewRandom } from "../redux/quote/quoteAction";
+import { fetchRandomQuote } from "../redux/quote/quoteAction";
 import '../style/Random.css';
 import { useEffect } from 'react';
 
