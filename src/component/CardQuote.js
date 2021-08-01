@@ -4,7 +4,7 @@ import '../style/CardQuote.css'
 function CardQuote({quote}) {
     return (
         <div className="card-quote">
-            <p className="card-quote-content">"{quote}"</p>
+            <p className="card-quote-content">{quote}</p>
         </div>
     )
 }
