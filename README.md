@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/0G3RkcY/windbnb.png)
+![screenshot](https://i.ibb.co/B6vyXKR/quote.png)
 
 
 ### Built With
