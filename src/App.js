@@ -9,6 +9,7 @@ import { useSelector } from 'react-redux'
 function App() {
 
   const view = useSelector(state => state.view)
+  console.log(view)
 
   return (
     <div className="App">
